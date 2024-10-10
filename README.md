@@ -2,6 +2,11 @@
 
 Este proyecto es una página web que permite a los usuarios ingresar información sobre consultas veterinarias, como los datos del dueño, la mascota y el motivo de la consulta. Al enviar el formulario, los datos se muestran dinámicamente en la página.
 
+## Demo
+
+Puedes ver el demo en vivo en el siguiente enlace:  
+[Ver Demo](https://tuenlace.com/demo)
+
 ## Descripción
 
 La página utiliza HTML, CSS (con Bootstrap), y JavaScript para crear una interfaz interactiva. El formulario captura los siguientes datos:
@@ -51,7 +56,7 @@ class Mascota extends Animal {
 }
 ```
 
-## Tecnologías Utilizadas
+### Tecnologías Utilizadas
 
 - HTML5 para la estructura del sitio web.
 - Bootstrap 4 para el diseño responsivo.
@@ -59,18 +64,18 @@ class Mascota extends Animal {
 - JavaScript para la lógica interactiva.
 - CSS personalizado para los estilos adicionales.
 
-## Instalación
+### Instalación
 
 1. Clona el repositorio.
 2. Abre el archivo index.html en tu navegador.  
 
-## Uso
+### Uso
 
 1. Completa el formulario con los datos del dueño y de la mascota.
 2. Haz clic en Agregar.
 3. Los datos ingresados aparecerán en la parte inferior del formulario.
 
-## Autor
+### Autor
 
 - Ivan Vargas Gantiva
 
