@@ -83,13 +83,6 @@ formulario.addEventListener("submit", (event) => {
     enfermedad
   );
 
-  // Crear elemento li en el html
-  //   const li = document.createElement("li");
-  //   li.textContent = `${nuevaMascota.datosPropietario()},${nuevaMascota.tipo}, ${
-  //     nuevaMascota._nombreMascota
-  //   }, ${nuevaMascota._enfermedad}`;
-  //   li.textContent = `El tipo de animal es un: ${nuevaMascota.tipo}, mientras que el nombre de la mascota es: ${nuevaMascota._nombreMascota} y la enfermedad es: ${nuevaMascota._enfermedad}`;
-
   // Agregar el resultado como innerHTML
   resultado.innerHTML += `
   <li>
