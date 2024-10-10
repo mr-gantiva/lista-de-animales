@@ -76,8 +76,8 @@ formulario.addEventListener("submit", (event) => {
   // Crear la mascota con los datos
   const nuevaMascota = new Mascota(
     propietario,
-    telefono,
     direccion,
+    telefono,
     tipo,
     nombreMascota,
     enfermedad
