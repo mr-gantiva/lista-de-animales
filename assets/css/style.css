@@ -1,3 +1,8 @@
 form {
-    font-family: 'Tajawal', sans-serif;
+  font-family: "Tajawal", sans-serif;
+}
+.error {
+  color: red;
+  font-size: 0.875em;
+  display: none; /* Oculto por defecto */
 }
